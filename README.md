@@ -1,5 +1,5 @@
 ![DefhacksLogo](https://user-images.githubusercontent.com/78695941/116000226-534eb080-a5bd-11eb-9329-d129d1ed115a.png)
-# 2021-Defhacks
+# 2021-Defhacks Santiago, Chile
 #### [ENG]:
 Defhacks is an organization that runs hackathons all over the world. This particular event occured in Santiago, Chile on April 23rd-25th. Online format due to the pandemic.
 
