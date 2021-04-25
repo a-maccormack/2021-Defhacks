@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<script type="text/javascript" src="./resources/js/script.js"></script>
+		<script src="https://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js"></script>
+		<link href="./resources/css/index.css" type="text/css" rel="stylesheet">	
+	</head>
+	<body>
+
+		<h1 class="centertxt"> Welcome to the DayMask generator</h1>
+		<div class="centertxt"> Create your FB and IG mask filter</div>
+		<h3> Select your mask type: </h3>
+
+		<div id="RedBox">
+		<img src="./resources/images/redbubble.png" width=60px height=60px>
+		<label for="img">Select design:</label>
+		<input type="file" id="RedbgFile" accept="image/*" onChange="LayerRed()"> <br>
+		<button onclick="ShowAll()" id="BackOne">Back</button>
+		</div>
+
+		<div id="FulBox">
+		<img src="./resources/images/printful.png" width=60px height=60px>
+		<label for="img">Select design:</label>
+		<input type="file" id="FulbgFile" accept="image/*" onChange="LayerFul()"> <br>
+		<button onclick="ShowAll()" id="BackTwo">Back</button>
+		</div>
+
+		<div id="IfyBox">
+		<img src="./resources/images/printify.png" width=60px height=60px>
+		<label for="img">Select design:</label>
+		<input type="file" id="IfybgFile" accept="image/*" onChange="LayerIfy()">
+		<br>
+		<button onclick="ShowAll()" id="BackThree">Back</button>
+		</div>
+				
+		<div id="CustomMask">
+		<label for="img">Select design:</label> <br>
+		<input type="file" id="MaskFile" accept="image/*" onChange="uploadFG()">
+		<button onclick="Combine()">Transform</button>
+		<br>
+		</div>
+		
+		<canvas id="canvas1"></canvas>
+		<h3>Download masks:</h3>
+		<a href="resources/DownlodableFile/Templates.zip" download>
+			<img src="./resources/images/Download.png" width=60px height=60px>
+		</a>
+	</body>
+</html>

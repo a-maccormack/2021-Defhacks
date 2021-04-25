@@ -1,0 +1,23 @@
+
+.centertxt {
+	text-align:center
+}
+.buttonmargin {
+	margin-top: 100px;
+}
+.buttoncenter{
+	text-align: center;   
+	width: 100%;  
+	height: 50px;  
+	padding-left: 100px;  
+}
+
+canvas
+{
+  background: lightgray;
+  border: 1px solid black;
+  width: 450px;
+  height: 300px;
+  margin: 30px;
+}
+			
