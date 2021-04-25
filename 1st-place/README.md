@@ -7,6 +7,8 @@ This project was produced by Vicente Farid Chomalí Castro and Martín Cooper Sc
 #### [ESP]:
 Este proyecto fue creado por Vicente Farid Chomalí Castro y Martín Cooper Schenke para el evento Defhacks 2021 en Santiago, Chile. Recibió el primer lugar.
 
+Scoring / Puntuación
+======
 
 Originality   | Function     | Impact        | Eficiency     | Mini Challenge| TOTAL         |
 ------------- | -------------| ------------- | ------------- | ------------- | ------------- |
