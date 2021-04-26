@@ -12,4 +12,4 @@ Scoring / Puntuación
 
 Originality   | Function     | Impact        | Eficiency     | Mini Challenge| TOTAL         |
 ------------- | -------------| ------------- | ------------- | ------------- | ------------- |
-25            | 22           | 20            | 15            | 0             | 110           |
+25            | 22           | 20            | 15            | 0             | 82            |
