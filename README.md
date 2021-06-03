@@ -4,7 +4,7 @@
 Defhacks is an organization that runs hackathons all over the world. This particular event occured in Santiago, Chile on April 23rd-25th. Online format due to the pandemic.
 
 #### [ESP]:
-Defhacks es una organización que organiza hackathons en todo el mundo. Este evento en particular tomó lugar en Santiago, Chile en el rango del 23-25 de Abril. Formato online debido a la pandemia
+Defhacks es una organización que organiza hackathons en todo el mundo. Este evento en particular tomó lugar en Santiago, Chile en las fechas del 23-25 de Abril. Formato online debido a la pandemia.
 
 Challenge / Desafío
 ========================
